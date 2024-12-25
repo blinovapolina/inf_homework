@@ -56,3 +56,13 @@ grep -in "как" testfile.txt
 4:Как шум от стаи журавлиной, —
 7:Как море вешнее в разливе,
 ```
+## 2. Задание
+Напишите Bash-скрипт, который будет принимать слово для поиска в качестве аргумента и искать его во всех текстовых файлах в текущей директории. Результаты поиска должны записываться в файл results.txt.
+
+## Как успешно сдать работу?
+## Источники
+1. [Команда grep в Linux](https://timeweb.cloud/tutorials/linux/komanda-grep-v-linux)
+2. [Что такое grep](https://habr.com/ru/articles/229501/)
+3. [16 полезных опций grep](https://proglib.io/p/16-opciy-grep-kotorye-pomogut-vam-v-realnom-mire-2021-03-16)
+4. [grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+5. [Команда grep в Linux](https://losst.pro/gerp-poisk-vnutri-fajlov-v-linux)
