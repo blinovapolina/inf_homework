@@ -15,9 +15,10 @@
 2. Создаю скрипт `grep_script.sh`
    <img width="568" alt="Screenshot 2024-12-26 at 00 32 14" src="https://github.com/user-attachments/assets/45a8cf2f-9466-4ee7-a073-cbdcb5230445" />
 Скрипт:
-<img width="567" alt="Screenshot 2024-12-26 at 00 39 15" src="https://github.com/user-attachments/assets/febd09ba-eda7-45f3-9bfb-36a129986345" />
-3. Делаю скрипт исполняемым
+<img width="566" alt="Screenshot 2024-12-26 at 00 52 22" src="https://github.com/user-attachments/assets/20712a6c-e426-490a-895a-40668aa48969" /> \
+3. Делаю скрипт исполняемым \
    <img width="430" alt="Screenshot 2024-12-26 at 00 41 10" src="https://github.com/user-attachments/assets/e15d6521-2006-4466-9303-f1e336e3b167" />
+## Запуск скрипта и тестирование
 
 ## Вывод
 1. В ходе лабораторной работы была изучена команда grep.
