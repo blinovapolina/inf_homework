@@ -11,7 +11,7 @@
    3. `id`: номер заказа
 ## Выполнение задания
 1. Создаю файлы `order.txt` и `address.txt` и записываю в них текст из примера
-   <img width="563" alt="Screenshot 2024-12-26 at 00 29 51" src="https://github.com/user-attachments/assets/20b36879-2272-4e35-87b0-f3c3f31bf384" />
+   <img width="563" alt="Screenshot 2024-12-26 at 00 29 51" src="https://github.com/user-attachments/assets/20b36879-2272-4e35-87b0-f3c3f31bf384" /> \
 Содержимое файла `order.txt`:
 ```
 12;Иванов Иван Иванович;Яблоки, Бананы
