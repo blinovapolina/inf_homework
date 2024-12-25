@@ -19,7 +19,8 @@
 3. Делаю скрипт исполняемым \
    <img width="430" alt="Screenshot 2024-12-26 at 00 41 10" src="https://github.com/user-attachments/assets/e15d6521-2006-4466-9303-f1e336e3b167" />
 ## Запуск скрипта и тестирование
-
+![image](https://github.com/user-attachments/assets/4bcb5a02-86dc-4e3d-b452-fb7867f1b54a)
+Все тесты прошли
 ## Вывод
 1. В ходе лабораторной работы была изучена команда grep.
 2. Было изучено, как писать скрипт.
